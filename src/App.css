@@ -7,3 +7,6 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antial;
 }
+body {
+  margin: 0 !important;
+}
